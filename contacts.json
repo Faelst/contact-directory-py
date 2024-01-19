@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Rafael Silverio 1",
+    "number": "99",
+    "isFavorite": true
+  },
+  {
+    "name": "Rafael Silverio 2",
+    "number": "12981708474",
+    "isFavorite": false
+  },
+  {
+    "name": "Rafael Silverio 3",
+    "number": "12981708474",
+    "isFavorite": false
+  },
+  {
+    "name": "Rafael Silverio 4",
+    "number": "12981708474",
+    "isFavorite": true
+  },
+  {
+    "name": "Rafael Silverio 5",
+    "number": "12981709999",
+    "isFavorite": false
+  },
+  {
+    "name": "Rafael Silverio 6",
+    "number": "12981708888",
+    "isFavorite": true
+  },
+  {
+    "name": "Rafael Silverio 7",
+    "number": "12981708877",
+    "isFavorite": true
+  }
+]
